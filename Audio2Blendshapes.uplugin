@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "Audio2Blendshapes",
+  "Description": "Generate facial blendshape clips locally with NVIDIA Audio2Face-3D.",
+  "Category": "Animation",
+  "CanContainContent": false,
+  "SupportedTargetPlatforms": ["Win64"],
+  "Modules": [
+    { "Name": "Audio2Blendshapes", "Type": "Editor", "LoadingPhase": "Default", "PlatformAllowList": ["Win64"] }
+  ]
+}
